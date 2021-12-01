@@ -1,3 +1,4 @@
-# django projects for showcase
+# Vox
 
-build some awesome web apps with django 
+
+Create an awesome app with this Repo
